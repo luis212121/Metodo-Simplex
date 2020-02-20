@@ -1,0 +1,28 @@
+.celda{
+    -fx-background-color: #ffffff;
+    -fx-padding:10px 0px 10px 0px;
+    -fx-border-width: 1px;
+    -fx-border-color: #888;
+    -fx-min-width: 50px;
+    -fx-alignment: center;
+
+}
+.title{
+    -fx-border-color: #327933;
+    -fx-background-color: #327933;
+    -fx-text-fill: #fff;
+}
+
+
+.grande{
+    -fx-min-width: 150px;
+}
+
+.fila{
+    -fx-spacing:5px;
+
+}
+.toolbar{
+    -fx-background-color: #FFF;
+    
+}
